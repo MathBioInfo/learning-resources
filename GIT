@@ -1,0 +1,49 @@
+Roadmap to learning GIT
+
+Day 1:
+
+    Install Git: sudo apt-get update and sudo apt-get install git
+    Learn about version control and what Git is
+    Create a GitHub account if you don't have one yet
+    Watch this video to get a general understanding of what Git is and how it works: https://www.youtube.com/watch?v=SWYqp7iY_Tc
+
+Day 2:
+
+    Configure Git settings
+    Learn basic Git commands: git init, git add, git commit, git status
+    Watch this video to learn more about configuring Git and basic commands: https://www.youtube.com/watch?v=HVsySz-h9r4
+
+Day 3:
+
+    Learn about Git branches
+    Create and switch between branches
+    Watch this video to learn about Git branches: https://www.youtube.com/watch?v=XYLGnvFzF6s
+
+Day 4:
+
+    Learn about remote repositories
+    Add a remote repository and push changes to it
+    Watch this video to learn about remote repositories: https://www.youtube.com/watch?v=5KjapFQNxUo
+
+Day 5:
+
+    Learn about Git pull requests
+    Create a pull request and merge it
+    Watch this video to learn about pull requests: https://www.youtube.com/watch?v=_NrSWLQsDL4
+
+Day 6:
+
+    Learn about Git conflicts and how to resolve them
+    Watch this video to learn about Git conflicts: https://www.youtube.com/watch?v=C6WM5xd5w5E
+
+Day 7:
+
+    Learn about Git tags and releases
+    Create a tag and release
+    Watch this video to learn about Git tags and releases: https://www.youtube.com/watch?v=Gmgiv9XJw20
+
+Additional resources:
+
+    Git documentation: https://git-scm.com/doc
+    Git tutorial: https://www.atlassian.com/git/tutorials
+    Git cheat sheet: https://education.github.com/git-cheat-sheet-education.pdf
