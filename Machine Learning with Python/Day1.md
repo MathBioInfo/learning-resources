@@ -1,3 +1,5 @@
+Resource: [Python Tutorials](https://www.w3schools.com/python/python_intro.asp)
+
 **The data types, variables, operations, loops, and conditional statements in Python are reviewed here. Please refer to "Introduction to Python" for further information.**
 
 Python is a popular high-level programming language that is widely used in a variety of industries, including web development, data science, artificial intelligence, scientific computing, and more. It was first created by Guido van Rossum and released in 1991.
