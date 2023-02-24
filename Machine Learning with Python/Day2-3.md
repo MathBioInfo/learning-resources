@@ -81,17 +81,17 @@ This will create a 2D array b and print it to the console:
 
 NumPy arrays can be indexed and sliced just like regular Python lists. For example, to access the first element of array A, you can use:
 ```Python
-print(a[0])
+print(A[0])
 ```
 
-This will print the first element of a, which is 
+This will print the first element of A, which is 
 ```
 1
 ```
 
 You can also slice an array using the colon : operator. For example, to get the first three elements of a, you can use:
 ```Python
-print(a[:3])
+print(A[:3])
 ```
 This will print the first three elements of A, which are 
 ```
