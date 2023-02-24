@@ -41,7 +41,7 @@ import numpy as np
 This will allow you to use the NumPy functions and arrays in your code with the "np" alias.
 
 ### A tutorial to get you started with NumPy
-Import NumPy
+#### Import NumPy
 
 Start by importing NumPy into your Python code using the following line:
 
